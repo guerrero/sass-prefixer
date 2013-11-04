@@ -11,7 +11,7 @@ Sass-prefixer is a vendor prefixer for sass written in scss, you only need to do
 
 ```
 // Import sass-prefixer
-@import "sass-prefixer;"
+@import "sass-prefixer";
 ```
 * Once you've imported sass-prefixer, you only need to include the mixin into your code to prefix your styles. This is the way to do:
 
