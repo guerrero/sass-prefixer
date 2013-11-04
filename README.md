@@ -7,15 +7,14 @@ Sass-prefixer is a vendor prefixer for sass written in scss, you only need to do
 
 * [Download sass-prefixer](https://raw.github.com/aloge/sass-prefixer)
 * Save the file in your project directory, inside the scss folder (recommended)
-* Import sass-prefixer in your main scss file
+* Import sass-prefixer in your main scss file. If you don't have the sass-prefixer file in the same path as your scss main file you need to specify a relative path.
 
 ```
 // Import sass-prefixer
-// If you don't have the sass-prefixer file in the same path as your
-// scss main file you need to specify the relative path.
 @import "sass-prefixer;"
 ```
 * Once you've imported sass-prefixer, you only need to include the mixin into your code to prefix your styles. This is the way to do:
+
 ```
 // This is a selector with unprefixed properties
 .unprefixed {
