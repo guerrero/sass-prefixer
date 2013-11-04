@@ -3,7 +3,7 @@
 Sass-prefixer is a vendor prefixer for sass written in scss, you only need to download sass-prefixer.scss, import the file in your scss and start using it. That's all! Sass-prefixer it's in beta version, it  but it works well with almost all common css properties.
 
 
-## Quick start
+### Quick start
 
 * [Download sass-prefixer](https://raw.github.com/aloge/sass-prefixer)
 * Save the file in your project directory, inside the scss folder (recommended)
@@ -44,24 +44,26 @@ This code compiles to:
 }
 ```
 
-#Customize it
+### Customize it
 
 You can specify what browsers you want sass-prefixer support modifying the $prefixer-web-browsers-support variable in sass-prefixer.scss or adding it in your scss with a different value
 
 
-## Bugs and feature requests
+### Bugs and feature requests
 
 Have a bug or a feature request? [Please open a new issue](https://github.com/aloge/sass-prefixer/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/aloge/CONTRIBUTING.md#using-the-issue-tracker), written by [Nicolas Gallagher](https://github.com/necolas/).
 
 
-## Contributing
+### Contributing
 
 Please read through the [contributing guidelines](https://github.com/aloge/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 
-## Author
+### Author
 
-**Alex Guerrero**
-+ <https://github.com/Aloge>
+**[Alex Guerrero](https://github.com/Aloge)**
+
+
+### License
 
 Public License (Unlicense)
