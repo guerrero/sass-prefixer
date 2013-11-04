@@ -5,7 +5,7 @@ Sass-prefixer is a vendor prefixer for sass written in scss, you only need to do
 
 ### Quick start
 
-* [Download sass-prefixer](https://raw.github.com/aloge/sass-prefixer)
+* [Download sass-prefixer](https://raw.github.com/Aloge/sass-prefixer/master/sass-prefixer.scss)
 * Save the file in your project directory, inside the scss folder (recommended)
 * Import sass-prefixer in your main scss file. If you don't have the sass-prefixer file in the same path as your scss main file you need to specify a relative path.
 
