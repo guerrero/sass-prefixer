@@ -1,6 +1,8 @@
-# Sass Prefixer (Beta)
+# Sass Prefixer (DEPRECATED)
 
 Sass-prefixer is a vendor prefixer for sass written in scss, you only need to download sass-prefixer.scss, import the file in your scss and start using it. That's all! Sass-prefixer it's in beta version, it  but it works well with almost all common css properties.
+
+sass-prefixer is deprecated, use [Autoprefixer](https://github.com/postcss/autoprefixer) instead
 
 
 ### Quick start
